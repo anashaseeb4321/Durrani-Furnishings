@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://durranifurnishings.co.uk/sitemap.xml
